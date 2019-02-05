@@ -13,3 +13,7 @@ aws s3 cp --recursive s3://source資料夾 s3://target資料夾
 
 # CDN Content delivery network或 Content distribution network 的簡稱
 https://youtu.be/0bD8zNc6kuk
+
+
+# AWS certificate manager 建置免費的SSL/TLS 憑證（保護網際網路上的網路通訊安全及建立網站身分）
+https://blog.25sprout.com/aws-%E6%8F%90%E4%BE%9B%E5%85%8D%E8%B2%BB%E7%9A%84-ssl-%E6%86%91%E8%AD%89%E6%9C%8D%E5%8B%99-%E8%B6%85%E7%B0%A1%E5%96%AE%E6%87%B6%E4%BA%BA%E5%8C%85%E7%9C%8B%E9%80%99%E8%A3%A1-9220e2f5bcdb
